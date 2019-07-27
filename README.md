@@ -6,4 +6,5 @@ This is just an attempt to learn how flask works (again). The content contained 
 ## Installed packages
 For my reference - yes, this could go in the setup.py... but that currently doesn't exist ;-)
 - flask
+- flask-wtf - flask extension, wrapper to WTForms
 - python-dotenv - makes use of the .flaskenv file, which sets the FLASK_APP variable
